@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @RizeKishimaro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Design And Creating AI
+- 🌱 I’m currently learning Web Development
+-    My Best Friend Is Htet Wai Yan Moe(Walker-0)
+- 💞️ I’m looking to collaborate on Nyein
+- 📫 How to reach me https://www.facebook.com/RizeKishimaro
 
 <!---
 RizeKishimaro/RizeKishimaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
