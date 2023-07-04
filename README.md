@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design And Creating AI
 - 🌱 I’m currently learning Web Development
 - 🤝 My Best Friend Is Htet Wai Yan Moe(Walker-0)
-- 💞️ I’m looking to collaborate on Nyein
+- 💞️ Broken.
 - 📫 How to reach me https://www.facebook.com/RizeKishimaro
 
 <!---
