@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @RizeKishimaro
-- 👀 I’m interested in Web Design And Creating AI
-- 🌱 I’m currently learning Web Development
-- 🤝 My Best Friend Is Htet Wai Yan Moe(Walker-0)
-- 💞️ Broken.
-- 📫 How to reach me https://www.facebook.com/RizeKishimaro
-
-<!---
-RizeKishimaro/RizeKishimaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Rize's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RizeKishimaro)](https://github.com/RizeKishimaro/RizeKishimaro)
