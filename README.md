@@ -1,28 +1,3 @@
-
-
-<style>
-.middle-class {
-width: 100%;
-height: auto;
-display: flex;
-justify-content: space-between;
-padding: 30px;
-}
-.yandere{
-    text-align: center;
-}
-.greet-text{
-    text-align: center;
-}
-img {
-    height: 30;
-}
-.stats{
-    display: flex;
-    flex-direction: row;
-}
-</style>
-
 <h2 align="left">Hi 👋! My name is RizeKishimaro and I'm a Software Engineer, from Sekai</h2>
 <ul>
 <li>I'm 20 years old and i'm really interested in Software Development</li>
