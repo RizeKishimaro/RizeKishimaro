@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is RizeKishimaro and I'm a Software Engineer, from Sekai</h2>
 <ul>
 <li>I'm 20 years old and i'm really interested in Software Development</li>
@@ -12,19 +13,11 @@
 ###
 
 <div class="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizeKishimaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizeKishimaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=ja&hide_border=false" alt="stats graph" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RizeKishimaro&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" width="50%" alt="languages graph"  />
 </div>
 
 ###
-
-<div class="yandere">
-<h3>They think i'm CRAZY and i'm actually am!</h3>
-<img class="yandere" height="200" src="https://i.pinimg.com/originals/66/2f/32/662f328e8a6dc3d1292116f6b5391a66.gif"  />
-</div>
-
-###
-
 <h3>Languages and Tools</h3>
 
 ##
@@ -97,26 +90,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="30"/>
-          
-          
-          
-                    
-          
-          
-                              
-                  
-          
-          
-          
-          
-          
-          
-          
-          
-          
+       
 </div>
 
-###
+##
+
+<div class="yandere">
+<h3>They think i'm CRAZY and i'm actually am!</h3>
+<img class="yandere" height="200" src="https://i.pinimg.com/originals/66/2f/32/662f328e8a6dc3d1292116f6b5391a66.gif"  />
+</div>
 
 
 ###
