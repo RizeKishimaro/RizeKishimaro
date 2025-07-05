@@ -1,11 +1,3 @@
-<style>
-  .middle-class a img,
-  .reach-out img {
-    margin: 4px;
-    vertical-align: middle;
-  }
-</style>
-
 <h2 align="left">Hi 👋! My name is RizeKishimaro and I'm a Software Engineer, from Sekai</h2>
 <ul>
   <li>I'm 20 years old and i'm really interested in Software Development</li>
